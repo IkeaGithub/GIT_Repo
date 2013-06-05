@@ -1,1 +1,2 @@
 Sample file 1
+The Line2 for File 1
