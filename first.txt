@@ -1,3 +1,5 @@
 Sample file 1
 The Line2 for File 1
 Merging for file1 on master branch
+Merging for file1
+
