@@ -1,2 +1,3 @@
 Sample file 2
 Line 1 for file 2
+Line2 for file2
